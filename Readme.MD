@@ -1,6 +1,6 @@
 # 📘 Role-Based Document Sharing System (MERN)
 
-Role-Based Document Sharing System where access to documents is controlled based on the user's role and team. Users can register, log in, and access documents with different permissions for viewing, editing, and deleting based on the role-based access control logic. The backend is powered by Node.js, Express, and MongoDB, with user authentication handled via JWT and bcrypt for password hashing.
+- Role-Based Document Sharing System where access to documents is controlled based on the user's role and team. Users can register, log in, and access documents with different permissions for viewing, editing, and deleting based on the role-based access control logic. The backend is powered by Node.js, Express, and MongoDB, with user authentication handled via JWT and bcrypt for password hashing.
 ---
 
 ## 🔧 Tech Stack
